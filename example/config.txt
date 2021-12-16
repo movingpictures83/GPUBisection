@@ -1,0 +1,2 @@
+Prefix plugins/GPUBisection/example/
+Plugin GPUBisection inputfile N.txt outputfile none
